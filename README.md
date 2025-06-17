@@ -61,17 +61,14 @@ python tutorials/01_connect.py
 - 06_land_disarm.py       # Land and disarm
 
 ## References
-
 ArduPilot SITL: https://ardupilot.org/dev/docs/sitl-simulator-software-in-the-loop.html  
 pymavlink: https://github.com/ArduPilot/pymavlink  
 MAVProxy: https://ardupilot.org/mavproxy/
 
 ## Author
-
 Mohammed Aissi  
 GitHub: https://github.com/mohammedaissi  
 LinkedIn: https://www.linkedin.com/in/mohammedaissi
 
 ## License
-
 No License
